@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Catalin</h1>
+<h3 align="center">I'm 15 years old and I always love to help people.</h3>
+
 - 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **maneaionut503@gmail.com**
